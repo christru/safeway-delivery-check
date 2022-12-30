@@ -12,7 +12,7 @@
   "devDependencies": {
     "@wdio/cli": "^5.22.1",
     "@wdio/local-runner": "^5.22.1",
-    "@wdio/mocha-framework": "^5.18.7",
+    "@wdio/mocha-framework": "^8.0.14",
     "@wdio/spec-reporter": "^5.18.7",
     "@wdio/sync": "^5.20.1",
     "chromedriver": "^80.0.1",
